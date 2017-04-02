@@ -4,6 +4,7 @@
 #
 #######
 
+#This code contains the main sampling and model fitting functions for the analytical, patch-occupany modeling results
 
 
 ########## This selects random communities based on a pairwise competition matrix, and calculates the steady-state abundance 
