@@ -1,7 +1,7 @@
 
 ## Diversity begets diversity in competition for space
 
-**_Nature Ecology &amp; Evolution_, 2017, 1(0156):1-8**
+### **_Nature Ecology &amp; Evolution_, 2017, 1(0156):1-8**
 
 **Daniel S. Maynard, Mark A. Bradford, Daniel L. Lindner, Linda T. A. van Diepen, Serita D. Frey, Jessie A. Glaeser & Thomas W. Crowther**
 
