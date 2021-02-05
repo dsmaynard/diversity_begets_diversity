@@ -1,0 +1,29 @@
+s1,species 1
+s2,species 2
+s1.rate,overgrowth rate, sp1
+s2.rate,overgrowth rate, sp2
+s1.win,did species 1 win
+s1.loss,did specie 2 lose
+draw, was it a draw
+s1.initial.mm,extension diam at initial measurement
+s2.initial.mm,extension diam at initial measurement
+s1.cbh,production of CBH enzyme by Sp1
+s2.cbh,production of CBH enzyme by Sp1
+s1.phos,production of Phosphatase enzyme by Sp1
+s2.phos,production of Phosphatase enzyme by Sp2
+s1.nag,production of NAG enzyme by Sp1
+s2.nag,production of NAG enzyme by Sp2
+s1.lap,production of LAP enzyme by Sp1
+s2.lap,production of LAP enzyme by Sp2
+s1.bg,production of BG enzyme by Sp1
+s2.bg,production of BG enzyme by Sp2
+s1.perox1,production of peroxidase 1 enzyme by Sp1
+s1.phenox,production of phenoloxidase enzyme by Sp1
+s1.perox2,production of peroxidase 2 enzyme by Sp1
+s2.perox1,production of peroxidase 1 enzyme by Sp2
+s2.phenox,production of phenoloxidase enzyme by Sp2
+s2.perox2,production of peroxidase 2 enzyme by Sp2
+s1.density,density of sp1
+s2.density,density of sp2
+s2.decomp,decomposition rate of sp1
+s1.decomp,decomposition rate of sp2
