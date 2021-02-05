@@ -1,7 +1,7 @@
 s1,species 1
 s2,species 2
-s1.rate,overgrowth rate, sp1
-s2.rate,overgrowth rate, sp2
+s1.rate,growth rate, sp1
+s2.rate,growth rate, sp2
 s1.win,did species 1 win
 s1.loss,did specie 2 lose
 draw, was it a draw
