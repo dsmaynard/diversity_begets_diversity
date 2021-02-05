@@ -25,5 +25,5 @@ s2.phenox,production of phenoloxidase enzyme by Sp2
 s2.perox2,production of peroxidase 2 enzyme by Sp2
 s1.density,density of sp1
 s2.density,density of sp2
-s2.decomp,decomposition rate of sp1
-s1.decomp,decomposition rate of sp2
+s1.decomp,decomposition rate of sp1
+s2.decomp,decomposition rate of sp2
